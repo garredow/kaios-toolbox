@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/garredow/kaios-toolbox/compare/v1.0.0...v1.1.0) (2022-03-26)
+
+
+### Features
+
+* add new icons and update manifest ([5ad37c0](https://github.com/garredow/kaios-toolbox/commit/5ad37c0771a5f2564ae38f067b6f04594c1a6c53))
+
 # 1.0.0 (2022-03-26)
 
 

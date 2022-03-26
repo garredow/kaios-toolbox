@@ -3,7 +3,7 @@
   "name": "KaiOS Toolbox",
   "short_name": "Toolbox",
   "description": "A collection of helpful web activities to be called by your app.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "launch_path": "/app/index.html",
   "origin": "app://com.garredow.kaios-toolbox",
   "icons": {
@@ -38,5 +38,7 @@
     }
   },
   "default_locale": "en-US",
-  "categories": ["utilities"]
+  "categories": [
+    "utilities"
+  ]
 }
