@@ -1,0 +1,40 @@
+{
+  "id": "com.garredow.kaios-toolbox",
+  "name": "KaiOS Toolbox",
+  "short_name": "Toolbox",
+  "description": "A collection of helpful activities you can use from your own app.",
+  "version": "1.0.0",
+  "launch_path": "/app/index.html",
+  "icons": {
+    "128": "/icons/icon_128.png",
+    "112": "/icons/icon_112.png",
+    "56": "/icons/icon_56.png"
+  },
+  "theme_color": "#000000",
+  "developer": {
+    "name": "Garrett Downs",
+    "url": "https://garrettdowns.com"
+  },
+  "type": "privileged",
+  "permissions": {
+    "video-capture": {
+      "description": "Read QR codes"
+    }
+  },
+  "activities": {
+    "toolbox/qr-to-text": {
+      "filters": {},
+      "href": "qr-to-text/index.html",
+      "disposition": "inline",
+      "returnValue": true
+    }
+  },
+  "fullscreen": true,
+  "locales": {
+    "en-US": {
+      "name": "KaiOS Toolbox",
+      "description": "A collection of helpful activities you can use from your own app."
+    }
+  },
+  "default_locale": "en-US"
+}

@@ -1,0 +1,24 @@
+body {
+  background: #000;
+  color: rgba(255, 255, 255, 0.88);
+  padding: 0px;
+  margin: 0px;
+}
+
+main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.title {
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+video {
+  flex: 1;
+}
