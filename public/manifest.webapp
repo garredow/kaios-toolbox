@@ -2,15 +2,16 @@
   "id": "com.garredow.kaios-toolbox",
   "name": "KaiOS Toolbox",
   "short_name": "Toolbox",
-  "description": "A collection of helpful activities you can use from your own app.",
+  "description": "A collection of helpful web activities to be called by your app.",
   "version": "1.0.0",
   "launch_path": "/app/index.html",
+  "origin": "app://com.garredow.kaios-toolbox",
   "icons": {
     "128": "/icons/icon_128.png",
     "112": "/icons/icon_112.png",
     "56": "/icons/icon_56.png"
   },
-  "theme_color": "#000000",
+  "theme_color": "#f8f8f8",
   "developer": {
     "name": "Garrett Downs",
     "url": "https://garrettdowns.com"
@@ -33,8 +34,9 @@
   "locales": {
     "en-US": {
       "name": "KaiOS Toolbox",
-      "description": "A collection of helpful activities you can use from your own app."
+      "description": "A collection of helpful web activities to be called by your app."
     }
   },
-  "default_locale": "en-US"
+  "default_locale": "en-US",
+  "categories": ["utilities"]
 }
