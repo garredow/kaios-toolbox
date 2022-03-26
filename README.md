@@ -1,5 +1,7 @@
 # KaiOS Toolbox
 
+[![CircleCI](https://circleci.com/gh/garredow/kaios-toolbox/tree/main.svg?style=svg)](https://circleci.com/gh/garredow/kaios-toolbox/tree/main)
+
 ## Examples
 
 ### QR code to text
