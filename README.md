@@ -6,6 +6,9 @@
 
 ### QR code to text
 
+Required permissions:
+* video-capture
+
 ```js
 const activity = new window.MozActivity({
   name: 'toolbox/qr-to-text',
